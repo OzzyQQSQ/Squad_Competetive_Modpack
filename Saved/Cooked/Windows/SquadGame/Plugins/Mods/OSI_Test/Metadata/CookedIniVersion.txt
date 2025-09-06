@@ -5084,6 +5084,7 @@ ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:bShowConsoleOnFourFinge
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:bUseAutocorrect:0=False
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:bUseMouseForTouch:0=False
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
+ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:ConsoleKeys:1=ё
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:DefaultInputComponentClass:0=/Script/EnhancedInput.EnhancedInputComponent
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:DefaultPlayerInputClass:0=/Script/EnhancedInput.EnhancedPlayerInput
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks

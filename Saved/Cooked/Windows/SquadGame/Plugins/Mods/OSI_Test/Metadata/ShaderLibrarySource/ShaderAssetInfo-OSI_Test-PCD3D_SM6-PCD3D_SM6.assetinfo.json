@@ -9,12 +9,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6CF7902A9B0F031EF39CCBA5D804597090026697",
-			"Assets": [
-				"/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_OSI"
-			]
-		},
-		{
 			"ShaderMapHash": "A77B885414E546A5FE7A905316D9D8F1D84FEA75",
 			"Assets": [
 				"/OSI_Test/Settings/GamePlay/POI_Events/Circles/Materials/M_Rally_Radius_OSI"
@@ -24,6 +18,12 @@
 			"ShaderMapHash": "190DBA6E96464A1277A5BD0207B6C064F53C1A5B",
 			"Assets": [
 				"/OSI_Test/Settings/GamePlay/POI_Events/Circles/Materials/OSI_M_CircleSiege"
+			]
+		},
+		{
+			"ShaderMapHash": "54BDFB9ED34ED364CB61566FB676A5E578CF421E",
+			"Assets": [
+				"/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_OSI"
 			]
 		}
 	]
