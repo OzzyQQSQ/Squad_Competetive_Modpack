@@ -5,6 +5,7 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W2_Mutaha\Gameplay_Layer_Data\OSI_Mutaha_Layer
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W2_Mutaha\OSI_Mutaha_lvl
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W3_Harju\Gameplay_Layer\OSI_Harju_s1
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W3_Harju\Gameplay_Layer\OSI_Harju_s2
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W3_Harju\Gameplay_LayerData\OSI_Harju_Layer
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W3_Harju\OS_Harju_lvl
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W4_Yeho\Gameplay_layer\OSI_Yehorivka_s1
@@ -15,6 +16,7 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W5_BlackCoast\OSI_BlackCoast
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\W6_Al_Basrah\Levels\AlBasrah_AAS_v1
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Weather_Layer\OSI_WL_ClearDay
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Weather_Layer\OSI_WL_ClearDay1
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Weather_Layer\OSI_WL_ClearDay_Desert
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Core\OSI_BP_Cam
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Core\OSI_BP_HUD
@@ -116,4 +118,5 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\UI\Transp_Mod\DT_OSI_Transparent
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\UI\Transp_Mod\M_Transparent_OSI
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\UI\Transp_Mod\MI_Transparent_OSI
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\UI\Transp_Mod\MI_Transparent_OSI1
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\UI\Transp_Mod\S_OSI_Transparent

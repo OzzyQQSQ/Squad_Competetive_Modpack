@@ -5,6 +5,7 @@
 /OSI_Test/Maps/W2_Mutaha/Gameplay_Layer_Data/OSI_Mutaha_Layer
 /OSI_Test/Maps/W2_Mutaha/OSI_Mutaha_lvl
 /OSI_Test/Maps/W3_Harju/Gameplay_Layer/OSI_Harju_s1
+/OSI_Test/Maps/W3_Harju/Gameplay_Layer/OSI_Harju_s2
 /OSI_Test/Maps/W3_Harju/Gameplay_LayerData/OSI_Harju_Layer
 /OSI_Test/Maps/W3_Harju/OS_Harju_lvl
 /OSI_Test/Maps/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1
@@ -15,6 +16,7 @@
 /OSI_Test/Maps/W5_BlackCoast/OSI_BlackCoast
 /OSI_Test/Maps/W6_Al_Basrah/Levels/AlBasrah_AAS_v1
 /OSI_Test/Maps/Weather_Layer/OSI_WL_ClearDay
+/OSI_Test/Maps/Weather_Layer/OSI_WL_ClearDay1
 /OSI_Test/Maps/Weather_Layer/OSI_WL_ClearDay_Desert
 /OSI_Test/Settings/Core/OSI_BP_Cam
 /OSI_Test/Settings/Core/OSI_BP_HUD
@@ -136,11 +138,13 @@
 /OSI_Test/Settings/UI/Transp_Mod/DT_OSI_Transparent
 /OSI_Test/Settings/UI/Transp_Mod/M_Transparent_OSI
 /OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI
+/OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI1
 /OSI_Test/Settings/UI/Transp_Mod/S_OSI_Transparent
 /OSI_Test/Settings/Vehicle/CRF/OSI_CRF_Light_FSV
 /OSI_Test/Settings/Vehicle/CRF/OSI_CRF_Vic
 /OSI_Test/Settings/Vehicle/Delays/OSI_Delay_LTV_Light6
 /OSI_Test/Settings/Vehicle/Delays/OSI_Delay_Transport_5
+/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_UH_Initial05
 /OSI_Test/Settings/Vehicle/Delays/OSI_QuadBikeDelay_3
 /OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Technical-HMG
 /OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Technical-Modern-TRAN

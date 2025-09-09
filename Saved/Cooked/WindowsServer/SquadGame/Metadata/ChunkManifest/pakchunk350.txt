@@ -1,2 +1,3 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\Delays\OSI_Delay_Transport_5
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\Delays\OSI_Delay_UH_Initial05
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\Delays\OSI_QuadBikeDelay_3
