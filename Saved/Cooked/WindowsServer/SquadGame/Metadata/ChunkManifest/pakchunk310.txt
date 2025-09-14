@@ -1,0 +1,2 @@
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\PLA\OSI_PLA
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\PLA\OSI_PLA_Faction_Table
