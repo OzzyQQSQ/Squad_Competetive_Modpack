@@ -1,30 +1,39 @@
 ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
-0,/OSI_Test/Maps/W1_Chora/Gameplay_Layer/OSI_Chora,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,57359,None
-0,/OSI_Test/Maps/W1_Chora/Gameplay_Layer/OSI_Chora,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,57359,None
+0,/OSI_Test/Maps/EasterEggs/image,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,202449,None
+0,/OSI_Test/Maps/EasterEggs/image_Mat,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13124,None
+0,/OSI_Test/Maps/EasterEggs/MI_PaintedDecal_RVNPROG,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1243,None
+0,/OSI_Test/Maps/EasterEggs/MI_PaintedDecal_RVNPROG1,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1202,None
+0,/OSI_Test/Maps/EasterEggs/MI_PaintedDecal_RVNPROG2,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1198,None
+0,/OSI_Test/Maps/EasterEggs/OSI_Logo,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13196,None
+0,/OSI_Test/Maps/EasterEggs/Squad_Invitational_Logo_Alpha,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1000934,None
+0,/OSI_Test/Maps/EasterEggs/Unicorn,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,900879,None
+0,/OSI_Test/Maps/EasterEggs/Unicorn_Mat,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13134,None
+0,/OSI_Test/Maps/W1_Chora/Gameplay_Layer/OSI_Chora,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,59963,None
+0,/OSI_Test/Maps/W1_Chora/Gameplay_Layer/OSI_Chora,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,59963,None
 0,/OSI_Test/Maps/W1_Chora/Gameplay_Layer_Data/OSI_Chora_layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,3431,None
 0,/OSI_Test/Maps/W1_Chora/OSI_Chora_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1021,None
-0,/OSI_Test/Maps/W2_Mutaha/Gameplay_Layer/OSI_Mutaha_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4264221,None
-0,/OSI_Test/Maps/W2_Mutaha/Gameplay_Layer/OSI_Mutaha_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4264221,None
+0,/OSI_Test/Maps/W2_Mutaha/Gameplay_Layer/OSI_Mutaha_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4265944,None
+0,/OSI_Test/Maps/W2_Mutaha/Gameplay_Layer/OSI_Mutaha_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4265944,None
 0,/OSI_Test/Maps/W2_Mutaha/Gameplay_Layer_Data/OSI_Mutaha_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1962,None
 0,/OSI_Test/Maps/W2_Mutaha/OSI_Mutaha_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1036,None
-0,/OSI_Test/Maps/W3_Harju/Gameplay_Layer/OSI_Harju_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4259033,None
-0,/OSI_Test/Maps/W3_Harju/Gameplay_Layer/OSI_Harju_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4259033,None
+0,/OSI_Test/Maps/W3_Harju/Gameplay_Layer/OSI_Harju_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4261251,None
+0,/OSI_Test/Maps/W3_Harju/Gameplay_Layer/OSI_Harju_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4261251,None
 0,/OSI_Test/Maps/W3_Harju/Gameplay_LayerData/OSI_Harju_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,3059,None
 0,/OSI_Test/Maps/W3_Harju/OS_Harju_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1026,None
-0,/OSI_Test/Maps/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4267704,None
-0,/OSI_Test/Maps/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4267704,None
+0,/OSI_Test/Maps/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4270110,None
+0,/OSI_Test/Maps/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4270110,None
 0,/OSI_Test/Maps/W4_Yeho/GameplayLayer_Data/OSI_Yehoriva_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1972,None
 0,/OSI_Test/Maps/W4_Yeho/OSI_Yehorivka_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1050,None
-0,/OSI_Test/Maps/W5_BlackCoast/Gameplay_layer/OSI_BlackCoast,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4272159,None
-0,/OSI_Test/Maps/W5_BlackCoast/Gameplay_layer/OSI_BlackCoast,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4272159,None
+0,/OSI_Test/Maps/W5_BlackCoast/Gameplay_layer/OSI_BlackCoast,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4276812,None
+0,/OSI_Test/Maps/W5_BlackCoast/Gameplay_layer/OSI_BlackCoast,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4276812,None
 0,/OSI_Test/Maps/W5_BlackCoast/GameplayLayer_Data/OSI_BlackCoast_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,2006,None
 0,/OSI_Test/Maps/W5_BlackCoast/OSI_BlackCoast,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1033,None
-0,/OSI_Test/Maps/W6_Al_Basrah/Gameplay_Layer/OSI_AL_Basrah,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4292755,None
-0,/OSI_Test/Maps/W6_Al_Basrah/Gameplay_Layer/OSI_AL_Basrah,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4292755,None
+0,/OSI_Test/Maps/W6_Al_Basrah/Gameplay_Layer/OSI_AL_Basrah,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4296666,None
+0,/OSI_Test/Maps/W6_Al_Basrah/Gameplay_Layer/OSI_AL_Basrah,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4296666,None
 0,/OSI_Test/Maps/W6_Al_Basrah/Gameplay_Layer_Data/OSI_AlBasrah_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,2001,None
 0,/OSI_Test/Maps/W6_Al_Basrah/OSI_AlBasrah_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1053,None
 0,/OSI_Test/Maps/Weather_Layer/OSI_WL_ClearDay,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,25903,None
-0,/OSI_Test/Maps/Weather_Layer/OSI_WL_ClearDay_Desert,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,26021,None
+0,/OSI_Test/Maps/Weather_Layer/OSI_WL_ClearDay_Desert,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,26025,None
 0,/OSI_Test/Maps/Weather_Layer/OSI_WL_ClearDay_Desert1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,26554,None
 0,/OSI_Test/Maps/Weather_Layer/OSI_WL_ClearDay_Main,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,26757,None
 0,/OSI_Test/Settings/Core/OSI_BP_Cam,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,109237,None
@@ -35,8 +44,8 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/OSI_Test/Settings/Core/OSI_BP_KillDeathRuleset,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,38299,None
 0,/OSI_Test/Settings/Core/OSI_GameStateSquad_Child,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,7476,None
 0,/OSI_Test/Settings/Core/OSI_GameStateSquad_Child,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,7476,None
-0,/OSI_Test/Settings/Core/OSI_PlayerController_Child,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,41355,None
-0,/OSI_Test/Settings/Core/OSI_PlayerController_Child,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,41355,None
+0,/OSI_Test/Settings/Core/OSI_PlayerController_Child,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,40925,None
+0,/OSI_Test/Settings/Core/OSI_PlayerController_Child,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,40925,None
 301,/OSI_Test/Settings/FactionSetup/BAF/OSI_BAF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25537,None
 301,/OSI_Test/Settings/FactionSetup/BAF/OSI_BAF_Table,/Script/Engine.DataTable,Hard,1168,None
 315,/OSI_Test/Settings/FactionSetup/CRF/OSI_CRF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,28408,None
@@ -47,16 +56,19 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 304,/OSI_Test/Settings/FactionSetup/IMF/OSI_IMF_FactionsetupTable,/Script/Engine.DataTable,Hard,1193,None
 310,/OSI_Test/Settings/FactionSetup/PLA/OSI_PLA,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,23518,None
 310,/OSI_Test/Settings/FactionSetup/PLA/OSI_PLA_Faction_Table,/Script/Engine.DataTable,Hard,1228,None
-312,/OSI_Test/Settings/FactionSetup/PLAAGF/OSI_PLAAGF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,22674,None
+312,/OSI_Test/Settings/FactionSetup/PLAAGF/OSI_PLAAGF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,22963,None
 312,/OSI_Test/Settings/FactionSetup/PLAAGF/OSI_PLAAGF_Table,/Script/Engine.DataTable,Hard,1251,None
 305,/OSI_Test/Settings/FactionSetup/RGF/FactionSetupTable_RGF_T,/Script/Engine.DataTable,Hard,1616,None
 305,/OSI_Test/Settings/FactionSetup/RGF/RGF_Chora_OSI_T,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,26379,None
 305,/OSI_Test/Settings/FactionSetup/RGF/RGF_OSI_T2_Basrah,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,27392,None
-313,/OSI_Test/Settings/FactionSetup/TLF/OSI_TLF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,24543,None
+313,/OSI_Test/Settings/FactionSetup/TLF/GL/OSI_Role_GND,/Game/Settings/Roles/Conditions/BP_SQRestriction_RoleCount.BP_SQRestriction_RoleCount_C,Hard,2250,None
+313,/OSI_Test/Settings/FactionSetup/TLF/GL/OSI_TLF_Grenadier_03,/Game/Settings/Roles/BP_SQRoleSettings.BP_SQRoleSettings_C,Hard,2550,None
+313,/OSI_Test/Settings/FactionSetup/TLF/GL/TLF_OSI_Role,/Script/Engine.DataTable,Hard,1418,None
+313,/OSI_Test/Settings/FactionSetup/TLF/OSI_TLF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,24584,None
 313,/OSI_Test/Settings/FactionSetup/TLF/OSI_TLF_Table,/Script/Engine.DataTable,Hard,1218,None
 306,/OSI_Test/Settings/FactionSetup/USA/FactionSetupTable_USA_T,/Script/Engine.DataTable,Hard,1253,None
 306,/OSI_Test/Settings/FactionSetup/USA/USA_Chora_OSI_T,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25224,None
-309,/OSI_Test/Settings/FactionSetup/USMC/OSI_USMC,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25170,None
+309,/OSI_Test/Settings/FactionSetup/USMC/OSI_USMC,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25466,None
 309,/OSI_Test/Settings/FactionSetup/USMC/OSI_USMC_Table,/Script/Engine.DataTable,Hard,1207,None
 305,/OSI_Test/Settings/FactionSetup/VDV/OSI_VDV,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,27231,None
 305,/OSI_Test/Settings/FactionSetup/VDV/OSI_VDV_Table,/Script/Engine.DataTable,Hard,1211,None
@@ -132,6 +144,8 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/OSI_Test/Settings/UI/SaveScoreboard/BFL_SaveScoreboard_OSI,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,25376,None
 0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,1477,None
 0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,1477,None
+0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec_Item,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,1497,None
+0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec_Item,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,1497,None
 0,/OSI_Test/Settings/UI/SpecCam/W_SpecCam_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3125,None
 0,/OSI_Test/Settings/UI/SpecCam/W_SpecCam_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3125,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/20_RNL,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410501,None
@@ -146,20 +160,20 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Einherjar,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410510,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/EMAN,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,10430345,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Full_Wipe,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410510,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/image,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1827290,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Man_On_Fire,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1960662,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Man_On_Fire,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1960662,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Monkeys_Want_Bananas,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410543,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Monkeys_Want_Bananas,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,125943,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/O_W_L_S,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410504,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Phantom_Company,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410528,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/POST,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,820403,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/POST,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,820403,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Rat,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410492,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Red_Foxes,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,400912,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/RNS,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410492,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Sign-Less_Squad,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410528,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Task_Force_Baguette,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1000942,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Task_Force_Baguette,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2001263,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Task_Force_Baguette,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2001263,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Zero_Pulse,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399647,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/DT_OSI_Teams,/Script/Engine.DataTable,Soft: Unknown reference chain. Soft From Unassigned Package?,5829,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/DT_OSI_Teams,/Script/Engine.DataTable,Soft: Unknown reference chain. Soft From Unassigned Package?,5860,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/OSI_W_TeamSelect,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,10207,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/OSI_W_TeamSelect,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,10207,None
 0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/S_OSI_Teams,/Script/CoreUObject.UserDefinedStruct,Soft: Unknown reference chain. Soft From Unassigned Package?,1212,None

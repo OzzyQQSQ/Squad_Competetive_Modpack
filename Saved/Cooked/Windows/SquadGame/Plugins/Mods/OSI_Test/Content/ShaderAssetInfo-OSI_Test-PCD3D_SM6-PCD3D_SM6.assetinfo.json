@@ -5,8 +5,13 @@
 			"ShaderMapHash": "D0D0481E5BB99942E48866C324899BE48EA581DB",
 			"Assets": [
 				"/OSI_Test/Settings/UI/Transp_Mod/M_Transparent_OSI",
-				"/OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI",
 				"/OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI1"
+			]
+		},
+		{
+			"ShaderMapHash": "948B24497630BBE077AA49F4851E7FF7EB96316D",
+			"Assets": [
+				"/OSI_Test/Maps/EasterEggs/OSI_Logo"
 			]
 		},
 		{
@@ -25,6 +30,13 @@
 			"ShaderMapHash": "54BDFB9ED34ED364CB61566FB676A5E578CF421E",
 			"Assets": [
 				"/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_OSI"
+			]
+		},
+		{
+			"ShaderMapHash": "D0FEB1D71E1167B3137E8F128205B845AC0FB0E8",
+			"Assets": [
+				"/OSI_Test/Maps/EasterEggs/image_Mat",
+				"/OSI_Test/Maps/EasterEggs/Unicorn_Mat"
 			]
 		}
 	]

@@ -1,3 +1,12 @@
+/OSI_Test/Maps/EasterEggs/image
+/OSI_Test/Maps/EasterEggs/image_Mat
+/OSI_Test/Maps/EasterEggs/MI_PaintedDecal_RVNPROG
+/OSI_Test/Maps/EasterEggs/MI_PaintedDecal_RVNPROG1
+/OSI_Test/Maps/EasterEggs/MI_PaintedDecal_RVNPROG2
+/OSI_Test/Maps/EasterEggs/OSI_Logo
+/OSI_Test/Maps/EasterEggs/Squad_Invitational_Logo_Alpha
+/OSI_Test/Maps/EasterEggs/Unicorn
+/OSI_Test/Maps/EasterEggs/Unicorn_Mat
 /OSI_Test/Maps/W1_Chora/Gameplay_Layer/OSI_Chora
 /OSI_Test/Maps/W1_Chora/Gameplay_Layer_Data/OSI_Chora_layer
 /OSI_Test/Maps/W1_Chora/OSI_Chora_Lvl
@@ -40,6 +49,9 @@
 /OSI_Test/Settings/FactionSetup/RGF/FactionSetupTable_RGF_T
 /OSI_Test/Settings/FactionSetup/RGF/RGF_Chora_OSI_T
 /OSI_Test/Settings/FactionSetup/RGF/RGF_OSI_T2_Basrah
+/OSI_Test/Settings/FactionSetup/TLF/GL/OSI_Role_GND
+/OSI_Test/Settings/FactionSetup/TLF/GL/OSI_TLF_Grenadier_03
+/OSI_Test/Settings/FactionSetup/TLF/GL/TLF_OSI_Role
 /OSI_Test/Settings/FactionSetup/TLF/OSI_TLF
 /OSI_Test/Settings/FactionSetup/TLF/OSI_TLF_Table
 /OSI_Test/Settings/FactionSetup/USA/FactionSetupTable_USA_T
@@ -94,6 +106,7 @@
 /OSI_Test/Settings/UI/KillFeed/OSI_KillFeedEnum
 /OSI_Test/Settings/UI/SaveScoreboard/BFL_SaveScoreboard_OSI
 /OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec
+/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec_Item
 /OSI_Test/Settings/UI/SpecCam/W_SpecCam_OSI
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/20_RNL
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/4_5_0_RATS
@@ -106,15 +119,14 @@
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/Einherjar
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/EMAN
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/Full_Wipe
+/OSI_Test/Settings/UI/TeamsLog/TeamTextures/image
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/Man_On_Fire
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/Monkeys_Want_Bananas
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/O_W_L_S
-/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Phantom_Company
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/POST
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/Rat
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/Red_Foxes
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/RNS
-/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Sign-Less_Squad
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/Task_Force_Baguette
 /OSI_Test/Settings/UI/TeamsLog/TeamTextures/Zero_Pulse
 /OSI_Test/Settings/UI/TeamsLog/TeamWidget/DT_OSI_Teams
