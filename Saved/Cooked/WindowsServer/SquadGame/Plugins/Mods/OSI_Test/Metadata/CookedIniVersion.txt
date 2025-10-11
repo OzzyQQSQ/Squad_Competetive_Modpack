@@ -3385,6 +3385,8 @@ ConfigSystem.<Editor>.Engine:Core.Log:LogCook:0=log
 ConfigSystem.<Editor>.Engine:Core.Log:LogEasyAntiCheatServer:0=log
 ConfigSystem.<Editor>.Engine:Core.System:AssetLogShowsAbsolutePath:0=True
 ConfigSystem.<Editor>.Engine:Core.System:AssetLogShowsDiskPath:0=True
+ConfigSystem.<Editor>.Engine:Core.System:CanSkipEditorReferencedPackagesWhenCooking:0=False
+ConfigSystem.<Editor>.Engine:Core.System:CanStripEditorOnlyExportsAndImports:0=True
 ConfigSystem.<Editor>.Engine:Core.System:CanUseUnversionedPropertySerialization:0=True
 ConfigSystem.<Editor>.Engine:Core.System:DetailedCallstacksInNonMonolithicBuilds:0=True
 ConfigSystem.<Editor>.Engine:Core.System:TestUnversionedPropertySerializationWhenCooking:0=False
@@ -3428,7 +3430,6 @@ ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreads:
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreadsDuringGame:0=4
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ShaderCompilerCoreCountThreshold:0=12
-ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugging:0=false
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugOnEnsure:0=false
@@ -4369,6 +4370,12 @@ ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:16=(FieldName="/Script/Engine.KismetMathLibraryLessEqual_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:17=(FieldName="/Script/GameplayTags.BlueprintGameplayTagLibraryNotEqual_GameplayTagContainer",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:18=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryMultiply_SecondsFrameRate",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
+ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:0=/Script/Niagara.NiagaraScript
+ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:1=/Script/Niagara.NiagaraEmitter
+ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:2=/Script/Niagara.NiagaraSystem
+ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:3=/Script/NiagaraEditor.NiagaraParameterDefinitions
+ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:4=/Script/Niagara.NiagaraEffectType
+ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:5=/Script/Niagara.NiagaraValidationRuleSet
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:BulkDataRegistryEnabled:0=true
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:bUseSoftGC:0=true
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookerIdleWarningSeverity:0=Warning

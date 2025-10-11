@@ -1,4 +1,5 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\CRF\OSI_CRF
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\CRF\OSI_CRF_Table
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\CRF\Rivals_CRF
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\CRF\OSI_CRF_Light_FSV
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\CRF\OSI_CRF_Vic
