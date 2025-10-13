@@ -33,7 +33,11 @@
 /OSI_Test/Maps/Rivals/W1_FoolsRoad/Gameplay_Lyaer_Data/W1_Fools_s4_Layer
 /OSI_Test/Maps/Rivals/W1_FoolsRoad/W1_Fools_s4_lvl
 /OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer/W2_BlackCoast_s4
+/OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer_Data/Rivals_BlackCoast_Layer
+/OSI_Test/Maps/Rivals/W2_BlackCoast/Rivals_BlackCoast_lvl
 /OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer/W4_Narva_s4
+/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer_Data/Rivals_Narva_Layer
+/OSI_Test/Maps/Rivals/W4_Narva/Rivals_Narva_Lvl
 /OSI_Test/Maps/Rivals/W5_AlBasrah/Gameplay_Layer/W5_AlBasrah_s4
 /OSI_Test/Settings/Core/OSI_BP_Cam
 /OSI_Test/Settings/Core/OSI_BP_HUD
@@ -42,6 +46,8 @@
 /OSI_Test/Settings/Core/OSI_PlayerController_Child
 /OSI_Test/Settings/FactionSetup/BAF/OSI_BAF
 /OSI_Test/Settings/FactionSetup/BAF/OSI_BAF_Table
+/OSI_Test/Settings/FactionSetup/CAF/Rivals_CAF
+/OSI_Test/Settings/FactionSetup/CAF/Rivals_CAF_FatctionTable
 /OSI_Test/Settings/FactionSetup/CRF/OSI_CRF
 /OSI_Test/Settings/FactionSetup/CRF/OSI_CRF_Table
 /OSI_Test/Settings/FactionSetup/CRF/Rivals_CRF
@@ -57,12 +63,15 @@
 /OSI_Test/Settings/FactionSetup/RGF/FactionSetupTable_RGF_T
 /OSI_Test/Settings/FactionSetup/RGF/RGF_Chora_OSI_T
 /OSI_Test/Settings/FactionSetup/RGF/RGF_OSI_T2_Basrah
+/OSI_Test/Settings/FactionSetup/RGF/Rivals_RGF
 /OSI_Test/Settings/FactionSetup/TLF/GL/OSI_Role_GND
 /OSI_Test/Settings/FactionSetup/TLF/GL/OSI_TLF_Grenadier_03
 /OSI_Test/Settings/FactionSetup/TLF/GL/TLF_OSI_Role
 /OSI_Test/Settings/FactionSetup/TLF/OSI_TLF
 /OSI_Test/Settings/FactionSetup/TLF/OSI_TLF_Table
 /OSI_Test/Settings/FactionSetup/USA/FactionSetupTable_USA_T
+/OSI_Test/Settings/FactionSetup/USA/Rivals_USA
+/OSI_Test/Settings/FactionSetup/USA/Rivals_USA_Narva
 /OSI_Test/Settings/FactionSetup/USA/USA_Chora_OSI_T
 /OSI_Test/Settings/FactionSetup/USMC/OSI_USMC
 /OSI_Test/Settings/FactionSetup/USMC/OSI_USMC_Table
@@ -168,6 +177,8 @@
 /OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI
 /OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI1
 /OSI_Test/Settings/UI/Transp_Mod/S_OSI_Transparent
+/OSI_Test/Settings/Vehicle/CRF/CRF_Light_Transport
+/OSI_Test/Settings/Vehicle/CRF/MEI_Technical-Mortar
 /OSI_Test/Settings/Vehicle/CRF/OSI_CRF_Light_FSV
 /OSI_Test/Settings/Vehicle/CRF/OSI_CRF_Vic
 /OSI_Test/Settings/Vehicle/Delays/OSI_Delay_LTV_Light6
@@ -176,6 +187,7 @@
 /OSI_Test/Settings/Vehicle/Delays/OSI_Delay_UH_Initial05
 /OSI_Test/Settings/Vehicle/Delays/OSI_Delay_UH_Initial10
 /OSI_Test/Settings/Vehicle/Delays/OSI_QuadBikeDelay_3
+/OSI_Test/Settings/Vehicle/IMF/IMF_Ural375D-TRAN
 /OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Technical-HMG
 /OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Technical-Modern-TRAN
 /OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Ural375D-LOG

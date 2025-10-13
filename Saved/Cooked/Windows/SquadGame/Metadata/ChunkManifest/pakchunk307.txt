@@ -1,0 +1,2 @@
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\CAF\Rivals_CAF
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\CAF\Rivals_CAF_FatctionTable

@@ -1,2 +1,4 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\USA\FactionSetupTable_USA_T
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\USA\Rivals_USA
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\USA\Rivals_USA_Narva
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\USA\USA_Chora_OSI_T
