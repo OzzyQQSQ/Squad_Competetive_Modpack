@@ -1,2 +1,3 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\PLA\OSI_PLA
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\PLA\OSI_PLA_Faction_Table
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\PLA\Rivals_PLA

@@ -1,2 +1,5 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\CAF\Rivals_CAF
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\CAF\Rivals_CAF_FatctionTable
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\CAF\BP_TAPV
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\CAF\RIVALS_CAF
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\CAF\Rivals_CAF_TAPV_M2

@@ -3385,8 +3385,6 @@ ConfigSystem.<Editor>.Engine:Core.Log:LogCook:0=log
 ConfigSystem.<Editor>.Engine:Core.Log:LogEasyAntiCheatServer:0=log
 ConfigSystem.<Editor>.Engine:Core.System:AssetLogShowsAbsolutePath:0=True
 ConfigSystem.<Editor>.Engine:Core.System:AssetLogShowsDiskPath:0=True
-ConfigSystem.<Editor>.Engine:Core.System:CanSkipEditorReferencedPackagesWhenCooking:0=False
-ConfigSystem.<Editor>.Engine:Core.System:CanStripEditorOnlyExportsAndImports:0=True
 ConfigSystem.<Editor>.Engine:Core.System:CanUseUnversionedPropertySerialization:0=True
 ConfigSystem.<Editor>.Engine:Core.System:DetailedCallstacksInNonMonolithicBuilds:0=True
 ConfigSystem.<Editor>.Engine:Core.System:TestUnversionedPropertySerializationWhenCooking:0=False
@@ -4370,12 +4368,6 @@ ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:16=(FieldName="/Script/Engine.KismetMathLibraryLessEqual_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:17=(FieldName="/Script/GameplayTags.BlueprintGameplayTagLibraryNotEqual_GameplayTagContainer",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:BlueprintEditor.Favorites:StarterProfile:18=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryMultiply_SecondsFrameRate",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:0=/Script/Niagara.NiagaraScript
-ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:1=/Script/Niagara.NiagaraEmitter
-ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:2=/Script/Niagara.NiagaraSystem
-ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:3=/Script/NiagaraEditor.NiagaraParameterDefinitions
-ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:4=/Script/Niagara.NiagaraEffectType
-ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:AutomaticOptionalInclusionAssetType:5=/Script/Niagara.NiagaraValidationRuleSet
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:BulkDataRegistryEnabled:0=true
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:bUseSoftGC:0=true
 ConfigSystem.<Editor>.G::::/SDK UE5/SquadEditorClosedTesting/Squad/Saved/Config/WindowsEditor/Editor.ini:CookSettings:CookerIdleWarningSeverity:0=Warning
@@ -5294,9 +5286,9 @@ ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCom
 ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:184=(Command="ShowDebug EnhancedInput",Desc="Displays debug information about the current state of any Enhanced Input Mapping Contexts")
 ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:185=(Command="ShowDebug WorldSubsystemInput",Desc="Displays debug information about the current state of any Enhanced Input Mapping Contexts applied to the Enhanced Input world subsystem.")
 ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:186=(Command="ShowDebug InputSettings",Desc="Displays debug information any user input settings, such as player mappable keys.")
-ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:187=(Command="ShowDebug DeviceProperty",Desc="Display debug information about currently active Input Device Properties")
-ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:188=(Command="ShowDebug Devices",Desc="Displays all current Platform Users and their Input Devices.")
-ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:189=(Command="ShowDebug AbilitySystem",Desc="Toggles debug information about the Gameplay Ability System")
+ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:187=(Command="ShowDebug AbilitySystem",Desc="Toggles debug information about the Gameplay Ability System")
+ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:188=(Command="ShowDebug DeviceProperty",Desc="Display debug information about currently active Input Device Properties")
+ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:189=(Command="ShowDebug Devices",Desc="Displays all current Platform Users and their Input Devices.")
 ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:MaxScrollbackSize:0=1024
 ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:0=(InputClassName="WindowsApplication",HardwareDeviceIdentifier="KBM",PrimaryDeviceType=KeyboardAndMouse,SupportedFeaturesMask=3)
 ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:1=(InputClassName="XInputInterface",HardwareDeviceIdentifier="XInputController",PrimaryDeviceType=Gamepad,SupportedFeaturesMask=260)
@@ -5310,6 +5302,9 @@ ConfigSystem.<Editor>.Scalability:AntiAliasingQuality@3:r.TSR.RejectionAntiAlias
 ConfigSystem.<Editor>.Scalability:AntiAliasingQuality@3:r.TSR.ReprojectionField:0=1
 ConfigSystem.<Editor>.Scalability:AntiAliasingQuality@3:r.TSR.Resurrection:0=1
 ConfigSystem.<Editor>.Scalability:AntiAliasingQuality@3:r.TSR.ShadingRejection.Flickering:0=1
+ConfigSystem.<Editor>.Scalability:EffectsQuality@0:fx.Niagara.QualityLevel:0=0
+ConfigSystem.<Editor>.Scalability:EffectsQuality@1:fx.Niagara.QualityLevel:0=1
+ConfigSystem.<Editor>.Scalability:EffectsQuality@2:fx.Niagara.QualityLevel:0=2
 ConfigSystem.<Editor>.Scalability:EffectsQuality@3:fx.Niagara.QualityLevel:0=3
 ConfigSystem.<Editor>.Scalability:EffectsQuality@3:r.DetailMode:0=3
 ConfigSystem.<Editor>.Scalability:EffectsQuality@3:r.EmitterSpawnRateScale:0=1.0
@@ -5349,6 +5344,7 @@ ConfigSystem.<Editor>.Scalability:EffectsQuality@3:r.VolumetricCloud.SkyAO.MaxRe
 ConfigSystem.<Editor>.Scalability:EffectsQuality@3:r.VolumetricCloud.SkyAO.TraceSampleCount:0=10
 ConfigSystem.<Editor>.Scalability:EffectsQuality@3:r.VolumetricCloud.StepSizeOnZeroConservativeDensity:0=1
 ConfigSystem.<Editor>.Scalability:EffectsQuality@3:r.VolumetricCloud.ViewRaySampleMaxCount:0=768
+ConfigSystem.<Editor>.Scalability:EffectsQuality@Cine:fx.Niagara.QualityLevel:0=4
 ConfigSystem.<Editor>.Scalability:FoliageQuality@3:foliage.DensityScale:0=1.0
 ConfigSystem.<Editor>.Scalability:FoliageQuality@3:grass.DensityScale:0=1.0
 ConfigSystem.<Editor>.Scalability:GlobalIlluminationQuality@3:r.AOQuality:0=2

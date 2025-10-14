@@ -2,5 +2,6 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\RGF\RGF_Chora_OSI_T
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\RGF\RGF_OSI_T2_Basrah
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\RGF\Rivals_RGF
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\RGF\Rivals_RGF_AlBasrah
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\VDV\OSI_VDV
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\VDV\OSI_VDV_Table

@@ -36,9 +36,12 @@
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W2_BlackCoast\Gameplay_Layer_Data\Rivals_BlackCoast_Layer
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W2_BlackCoast\Rivals_BlackCoast_lvl
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W4_Narva\Gameplay_Layer\W4_Narva_s4
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W4_Narva\Gameplay_Layer\W4_Narva_s4SQMapBoundary_1Mask
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W4_Narva\Gameplay_Layer_Data\Rivals_Narva_Layer
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W4_Narva\Rivals_Narva_Lvl
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W5_AlBasrah\Gameplay_Layer\W5_AlBasrah_s4
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W5_AlBasrah\Gameplay_Layer_Data\Rivals_AlBasrah_Layer
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Maps\Rivals\W5_AlBasrah\Rivals_AlBasrah_Lvl
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Core\OSI_BP_Cam
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Core\OSI_BP_HUD
 ..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Core\OSI_BP_KillDeathRuleset
