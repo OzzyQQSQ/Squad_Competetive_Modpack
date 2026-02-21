@@ -1,3 +1,0 @@
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\PLAAGF\OSI_PLAAGF
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\PLAAGF\OSI_PLAAGF_Table
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\Delays\OSI_Delay_LTV_Light6

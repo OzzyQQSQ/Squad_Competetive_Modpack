@@ -1,267 +1,296 @@
 ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
-0,/OSI_Test/Maps/OSI/EasterEggs/image,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,202457,None
-0,/OSI_Test/Maps/OSI/EasterEggs/image_Mat,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13136,None
-0,/OSI_Test/Maps/OSI/EasterEggs/MI_PaintedDecal_RVNPROG,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1255,None
-0,/OSI_Test/Maps/OSI/EasterEggs/MI_PaintedDecal_RVNPROG1,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1214,None
-0,/OSI_Test/Maps/OSI/EasterEggs/MI_PaintedDecal_RVNPROG2,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1210,None
-0,/OSI_Test/Maps/OSI/EasterEggs/OSI_Logo,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13208,None
-0,/OSI_Test/Maps/OSI/EasterEggs/Squad_Invitational_Logo_Alpha,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1000942,None
-0,/OSI_Test/Maps/OSI/EasterEggs/Unicorn,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,900887,None
-0,/OSI_Test/Maps/OSI/EasterEggs/Unicorn_Mat,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13146,None
-0,/OSI_Test/Maps/OSI/W1_Chora/Gameplay_Layer/OSI_Chora,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,59983,None
-0,/OSI_Test/Maps/OSI/W1_Chora/Gameplay_Layer/OSI_Chora,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,59983,None
-0,/OSI_Test/Maps/OSI/W1_Chora/Gameplay_Layer_Data/OSI_Chora_layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,3443,None
-0,/OSI_Test/Maps/OSI/W1_Chora/OSI_Chora_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1033,None
-0,/OSI_Test/Maps/OSI/W2_Mutaha/Gameplay_Layer/OSI_Mutaha_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4265964,None
-0,/OSI_Test/Maps/OSI/W2_Mutaha/Gameplay_Layer/OSI_Mutaha_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4265964,None
-0,/OSI_Test/Maps/OSI/W2_Mutaha/Gameplay_Layer_Data/OSI_Mutaha_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1974,None
-0,/OSI_Test/Maps/OSI/W2_Mutaha/OSI_Mutaha_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1048,None
-0,/OSI_Test/Maps/OSI/W3_Harju/Gameplay_Layer/OSI_Harju_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4261259,None
-0,/OSI_Test/Maps/OSI/W3_Harju/Gameplay_Layer/OSI_Harju_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4261259,None
-0,/OSI_Test/Maps/OSI/W3_Harju/Gameplay_LayerData/OSI_Harju_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,3071,None
-0,/OSI_Test/Maps/OSI/W3_Harju/OS_Harju_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1038,None
-0,/OSI_Test/Maps/OSI/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4270130,None
-0,/OSI_Test/Maps/OSI/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4270130,None
-0,/OSI_Test/Maps/OSI/W4_Yeho/GameplayLayer_Data/OSI_Yehoriva_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1984,None
-0,/OSI_Test/Maps/OSI/W4_Yeho/OSI_Yehorivka_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1062,None
-0,/OSI_Test/Maps/OSI/W5_BlackCoast/Gameplay_layer/OSI_BlackCoast,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4276832,None
-0,/OSI_Test/Maps/OSI/W5_BlackCoast/Gameplay_layer/OSI_BlackCoast,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4276832,None
-0,/OSI_Test/Maps/OSI/W5_BlackCoast/GameplayLayer_Data/OSI_BlackCoast_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,2018,None
-0,/OSI_Test/Maps/OSI/W5_BlackCoast/OSI_BlackCoast,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1045,None
-0,/OSI_Test/Maps/OSI/W6_Al_Basrah/Gameplay_Layer/OSI_AL_Basrah,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4296690,None
-0,/OSI_Test/Maps/OSI/W6_Al_Basrah/Gameplay_Layer/OSI_AL_Basrah,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4296690,None
-0,/OSI_Test/Maps/OSI/W6_Al_Basrah/Gameplay_Layer_Data/OSI_AlBasrah_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,2013,None
-0,/OSI_Test/Maps/OSI/W6_Al_Basrah/OSI_AlBasrah_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1065,None
-0,/OSI_Test/Maps/OSI/Weather_Layer/OSI_WL_ClearDay,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,25911,None
-0,/OSI_Test/Maps/OSI/Weather_Layer/OSI_WL_ClearDay_Desert,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,26033,None
-0,/OSI_Test/Maps/OSI/Weather_Layer/OSI_WL_ClearDay_Desert1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,26562,None
-0,/OSI_Test/Maps/OSI/Weather_Layer/OSI_WL_ClearDay_Main,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,26765,None
-0,/OSI_Test/Maps/Rivals/W1_FoolsRoad/GamePlay_Layer/W1_FoolsRoad_s4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,63082,None
-0,/OSI_Test/Maps/Rivals/W1_FoolsRoad/GamePlay_Layer/W1_FoolsRoad_s4,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,63082,None
-0,/OSI_Test/Maps/Rivals/W1_FoolsRoad/Gameplay_Lyaer_Data/W1_Fools_s4_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,2023,None
-0,/OSI_Test/Maps/Rivals/W1_FoolsRoad/W1_Fools_s4_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1081,None
-0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer/W2_BlackCoast_s4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4280809,None
-0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer/W2_BlackCoast_s4,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4280809,None
-0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer_Data/Rivals_BlackCoast_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,2048,None
-0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Rivals_BlackCoast_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1105,None
-0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer/W4_Narva_s4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4277017,None
-0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer/W4_Narva_s4,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4277017,None
-0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer/W4_Narva_s4SQMapBoundary_1Mask,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,4195264,None
-0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer_Data/Rivals_Narva_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,2010,None
-0,/OSI_Test/Maps/Rivals/W4_Narva/Rivals_Narva_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1060,None
-0,/OSI_Test/Maps/Rivals/W5_AlBasrah/Gameplay_Layer/W5_AlBasrah_s4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,4294756,None
-0,/OSI_Test/Maps/Rivals/W5_AlBasrah/Gameplay_Layer/W5_AlBasrah_s4,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4294756,None
-0,/OSI_Test/Maps/Rivals/W5_AlBasrah/Gameplay_Layer_Data/Rivals_AlBasrah_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,Soft: Unknown reference chain. Soft From Unassigned Package?,2046,None
-0,/OSI_Test/Maps/Rivals/W5_AlBasrah/Rivals_AlBasrah_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,Soft: Unknown reference chain. Soft From Unassigned Package?,1085,None
-0,/OSI_Test/Settings/Core/OSI_BP_Cam,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,114581,None
-0,/OSI_Test/Settings/Core/OSI_BP_Cam,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,114581,None
-0,/OSI_Test/Settings/Core/OSI_BP_HUD,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,4352,None
-0,/OSI_Test/Settings/Core/OSI_BP_HUD,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4352,None
-0,/OSI_Test/Settings/Core/OSI_BP_KillDeathRuleset,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,38299,None
-0,/OSI_Test/Settings/Core/OSI_BP_KillDeathRuleset,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,38299,None
-0,/OSI_Test/Settings/Core/OSI_GameStateSquad_Child,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,7476,None
-0,/OSI_Test/Settings/Core/OSI_GameStateSquad_Child,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,7476,None
-0,/OSI_Test/Settings/Core/OSI_PlayerController_Child,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,40925,None
-0,/OSI_Test/Settings/Core/OSI_PlayerController_Child,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,40925,None
-301,/OSI_Test/Settings/FactionSetup/BAF/OSI_BAF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25537,None
-301,/OSI_Test/Settings/FactionSetup/BAF/OSI_BAF_Table,/Script/Engine.DataTable,Hard,1168,None
-307,/OSI_Test/Settings/FactionSetup/CAF/Rivals_CAF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,26281,None
-307,/OSI_Test/Settings/FactionSetup/CAF/Rivals_CAF_FatctionTable,/Script/Engine.DataTable,Hard,1217,None
-315,/OSI_Test/Settings/FactionSetup/CRF/OSI_CRF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,28408,None
-315,/OSI_Test/Settings/FactionSetup/CRF/OSI_CRF_Table,/Script/Engine.DataTable,Hard,1346,None
-315,/OSI_Test/Settings/FactionSetup/CRF/Rivals_CRF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,28774,None
-303,/OSI_Test/Settings/FactionSetup/GFI/OSI_GFI,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,26332,None
-303,/OSI_Test/Settings/FactionSetup/GFI/OSI_GFI_FactionSetup,/Script/Engine.DataTable,Hard,1201,None
-304,/OSI_Test/Settings/FactionSetup/IMF/OSI_IMF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,32231,None
-304,/OSI_Test/Settings/FactionSetup/IMF/OSI_IMF_FactionsetupTable,/Script/Engine.DataTable,Hard,1389,None
-304,/OSI_Test/Settings/FactionSetup/IMF/Rivals_IMF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,32149,None
-310,/OSI_Test/Settings/FactionSetup/PLA/OSI_PLA,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,23518,None
-310,/OSI_Test/Settings/FactionSetup/PLA/OSI_PLA_Faction_Table,/Script/Engine.DataTable,Hard,1433,None
-310,/OSI_Test/Settings/FactionSetup/PLA/Rivals_PLA,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,23401,None
-312,/OSI_Test/Settings/FactionSetup/PLAAGF/OSI_PLAAGF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,22963,None
-312,/OSI_Test/Settings/FactionSetup/PLAAGF/OSI_PLAAGF_Table,/Script/Engine.DataTable,Hard,1251,None
-305,/OSI_Test/Settings/FactionSetup/RGF/FactionSetupTable_RGF_T,/Script/Engine.DataTable,Hard,2061,None
-305,/OSI_Test/Settings/FactionSetup/RGF/RGF_Chora_OSI_T,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,26379,None
-305,/OSI_Test/Settings/FactionSetup/RGF/RGF_OSI_T2_Basrah,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,27392,None
-305,/OSI_Test/Settings/FactionSetup/RGF/Rivals_RGF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,26769,None
-305,/OSI_Test/Settings/FactionSetup/RGF/Rivals_RGF_AlBasrah,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,27241,None
-313,/OSI_Test/Settings/FactionSetup/TLF/GL/OSI_Role_GND,/Game/Settings/Roles/Conditions/BP_SQRestriction_RoleCount.BP_SQRestriction_RoleCount_C,Hard,2250,None
-313,/OSI_Test/Settings/FactionSetup/TLF/GL/OSI_TLF_Grenadier_03,/Game/Settings/Roles/BP_SQRoleSettings.BP_SQRoleSettings_C,Hard,2550,None
-313,/OSI_Test/Settings/FactionSetup/TLF/GL/TLF_OSI_Role,/Script/Engine.DataTable,Hard,1418,None
-313,/OSI_Test/Settings/FactionSetup/TLF/OSI_TLF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,24584,None
-313,/OSI_Test/Settings/FactionSetup/TLF/OSI_TLF_Table,/Script/Engine.DataTable,Hard,1218,None
-306,/OSI_Test/Settings/FactionSetup/USA/FactionSetupTable_USA_T,/Script/Engine.DataTable,Hard,1681,None
-306,/OSI_Test/Settings/FactionSetup/USA/Rivals_USA,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25627,None
-306,/OSI_Test/Settings/FactionSetup/USA/Rivals_USA_Narva,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25645,None
-306,/OSI_Test/Settings/FactionSetup/USA/USA_Chora_OSI_T,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25224,None
-309,/OSI_Test/Settings/FactionSetup/USMC/OSI_USMC,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,25466,None
-309,/OSI_Test/Settings/FactionSetup/USMC/OSI_USMC_Table,/Script/Engine.DataTable,Hard,1207,None
-305,/OSI_Test/Settings/FactionSetup/VDV/OSI_VDV,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,Hard,27231,None
-305,/OSI_Test/Settings/FactionSetup/VDV/OSI_VDV_Table,/Script/Engine.DataTable,Hard,1211,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Materials/M_Rally_Radius_OSI,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,9080,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Materials/OSI_M_CircleSiege,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,11429,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Materials/OSI_Press,/Script/Engine.MaterialParameterCollection,Soft: Unknown reference chain. Soft From Unassigned Package?,1020,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_BP_Hab_Circle,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,7933,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_BP_Hab_Circle,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,7933,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_M_Rally_Radius_Inst,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1116,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_MI_CircleSiege_Inst,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1114,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_Rally_Circle,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8575,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_Rally_Circle,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8575,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Textures/OSI_T_siege,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,16778153,None
-0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Textures/T_Rally_radius,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,490957,None
-0,/OSI_Test/Settings/GamePlay/SpectateCam/Materials/M_SpectateCamScene_Caster,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,1040,None
-0,/OSI_Test/Settings/GamePlay/SpectateCam/Materials/T_OSI_RenderTarget,/Script/Engine.TextureRenderTarget2D,Soft: Unknown reference chain. Soft From Unassigned Package?,791,None
-0,/OSI_Test/Settings/GamePlay/SpectateCam/OSI_BP_SpectateCam_M,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,4998,None
-0,/OSI_Test/Settings/GamePlay/SpectateCam/OSI_BP_SpectateCam_M,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,4998,None
-0,/OSI_Test/Settings/GamePlay/SpectateCam/OSI_BP_SpectateCamInsert_caster,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3270,None
-0,/OSI_Test/Settings/GamePlay/SpectateCam/OSI_BP_SpectateCamInsert_caster,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3270,None
-0,/OSI_Test/Settings/GM/OSI_GameMode,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,6424,None
-0,/OSI_Test/Settings/GM/OSI_GameMode,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,6424,None
-0,/OSI_Test/Settings/GM/OSI_GameMode_Table,/Script/Engine.DataTable,Soft: Unknown reference chain. Soft From Unassigned Package?,1476,None
-0,/OSI_Test/Settings/OSI_Layer_Table,/Script/Engine.DataTable,Soft: Unknown reference chain. Soft From Unassigned Package?,1820,None
-0,/OSI_Test/Settings/OSI_Level_Table,/Script/Engine.DataTable,Soft: Unknown reference chain. Soft From Unassigned Package?,4179,None
-0,/OSI_Test/Settings/UI/CasterOverlay/CaptureZones/W_OSI_CaptureZone,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,29512,None
-0,/OSI_Test/Settings/UI/CasterOverlay/CaptureZones/W_OSI_CaptureZone,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,29512,None
-0,/OSI_Test/Settings/UI/CasterOverlay/CaptureZones/W_OSI_CaptureZone_Item,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8528,None
-0,/OSI_Test/Settings/UI/CasterOverlay/CaptureZones/W_OSI_CaptureZone_Item,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8528,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Infantry_Status/W_InfantryStatus_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,69587,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Infantry_Status/W_InfantryStatus_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,69587,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Infantry_Status/W_Mag_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,2650,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Infantry_Status/W_Mag_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,2650,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/UMG_GenericState_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,11743,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/UMG_GenericState_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,11743,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/W_HeliStatusOSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,52610,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/W_HeliStatusOSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,52610,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/W_VehicleStatusOSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,87647,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/W_VehicleStatusOSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,87647,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/W_FollowName_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8900,None
-0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/W_FollowName_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8900,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_Inst2_OSI,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1312,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_Inst_OSI,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1260,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_OSI,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,11855,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_OSI_Inst,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,996,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_TournamentFlag_OSI,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1033,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_MatchPanel_Minimalistic_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,44522,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_MatchPanel_Minimalistic_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,44522,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_MatchPanel_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,46575,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_MatchPanel_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,46575,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_StatPopUP_Minimalistic_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,34881,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_StatPopUP_Minimalistic_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,34881,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_StatPopUP_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,60923,None
-0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_StatPopUP_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,60923,None
-0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_AdminCrosshair_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,2041,None
-0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_AdminCrosshair_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,2041,None
-0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_KeyGuide_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,2019,None
-0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_KeyGuide_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,2019,None
-0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_MatchName_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,6763,None
-0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_MatchName_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,6763,None
-0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_OSI_Settings,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,63217,None
-0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_OSI_Settings,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,63217,None
-0,/OSI_Test/Settings/UI/CasterOverlay/W_OSI_HUD,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,54365,None
-0,/OSI_Test/Settings/UI/CasterOverlay/W_OSI_HUD,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,54365,None
-0,/OSI_Test/Settings/UI/Fonts/Bahnschrift/Bahnschrift,/Script/Engine.FontFace,Soft: Unknown reference chain. Soft From Unassigned Package?,323745,None
-0,/OSI_Test/Settings/UI/Fonts/Bahnschrift/Bahnschrift_Font,/Script/Engine.Font,Soft: Unknown reference chain. Soft From Unassigned Package?,915,None
-0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeed,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,15895,None
-0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeed,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,15895,None
-0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeed_Item,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,18883,None
-0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeed_Item,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,18883,None
-0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeedEnum,/Script/Engine.UserDefinedEnum,Soft: Unknown reference chain. Soft From Unassigned Package?,1199,None
-0,/OSI_Test/Settings/UI/SaveScoreboard/BFL_SaveScoreboard_OSI,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,25376,None
-0,/OSI_Test/Settings/UI/SaveScoreboard/BFL_SaveScoreboard_OSI,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,25376,None
-0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,9598,None
-0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,9598,None
-0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec_Item,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,7495,None
-0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec_Item,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,7495,None
-0,/OSI_Test/Settings/UI/SpecCam/W_SpecCam_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3125,None
-0,/OSI_Test/Settings/UI/SpecCam/W_SpecCam_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3125,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/20_RNL,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410501,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/4_5_0_RATS,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700586,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/4k,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,4304796,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/4L1ZKmT,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700577,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/7th_Ranger_Regiment,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410540,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/82team,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410501,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/C4,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,763067,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/C4,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,763067,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/EGCF,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410495,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Einherjar,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410510,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/EMAN,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,10430345,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Full_Wipe,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410510,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/image,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1827290,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Man_On_Fire,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1960662,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Man_On_Fire,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1960662,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Monkeys_Want_Bananas,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,125943,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/O_W_L_S,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410504,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/POST,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,820403,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/POST,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,820403,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Rat,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410492,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Red_Foxes,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,400912,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/RNS,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,410492,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Task_Force_Baguette,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2001263,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Task_Force_Baguette,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2001263,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Zero_Pulse,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399647,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/DT_OSI_Teams,/Script/Engine.DataTable,Soft: Unknown reference chain. Soft From Unassigned Package?,5860,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/OSI_W_TeamSelect,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,10207,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/OSI_W_TeamSelect,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,10207,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/S_OSI_Teams,/Script/CoreUObject.UserDefinedStruct,Soft: Unknown reference chain. Soft From Unassigned Package?,1212,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/W_Select_Teams_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,14896,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/W_Select_Teams_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,14896,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/W_Team_Item_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,12048,None
-0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/W_Team_Item_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,12048,None
-0,/OSI_Test/Settings/UI/TeamsLog/Tournament_Logo/preview,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,125907,None
-0,/OSI_Test/Settings/UI/TeamsLog/Tournament_Logo/Squad_Invitational_Logo_Alpha,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1000976,None
-0,/OSI_Test/Settings/UI/TeamsLog/Tournament_Logo/T_FriendlyMatch,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,490942,None
-0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/DT_OSI_Tourn,/Script/Engine.DataTable,Soft: Unknown reference chain. Soft From Unassigned Package?,1545,None
-0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/S_OSI_TournSettings,/Script/CoreUObject.UserDefinedStruct,Soft: Unknown reference chain. Soft From Unassigned Package?,1267,None
-0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/W_Tournament_Item_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,10062,None
-0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/W_Tournament_Item_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,10062,None
-0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/W_TournamentSelect_OSI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,9863,None
-0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/W_TournamentSelect_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,9863,None
-0,/OSI_Test/Settings/UI/Textures/Loading_Screens/OSI_LoadingScreen,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,4148140,None
-0,/OSI_Test/Settings/UI/Textures/Loading_Screens/OSI_LoadingScreenFHD,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1037749,None
-0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_AlBasrah,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700614,None
-0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Black_Coast,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399687,None
-0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Chora,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399669,None
-0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Harju,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399669,None
-0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Mutaha,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399672,None
-0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Yehorivka,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399681,None
-0,/OSI_Test/Settings/UI/Textures/T_Daco_OSI,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,903392,None
-0,/OSI_Test/Settings/UI/Textures/T_DotCrosshair_OSI,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1069,None
-0,/OSI_Test/Settings/UI/Textures/T_Keyboardguide_OSI,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2631802,None
-0,/OSI_Test/Settings/UI/Textures/T_MatchNameBar_OSI,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,480916,None
-0,/OSI_Test/Settings/UI/Textures/T_MatchPanelBorder_OSI,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,320920,None
-0,/OSI_Test/Settings/UI/Textures/T_MidStat_OSI,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,400896,None
-0,/OSI_Test/Settings/UI/Transp_Mod/DT_OSI_Transparent,/Script/Engine.DataTable,Soft: Unknown reference chain. Soft From Unassigned Package?,289820,None
-0,/OSI_Test/Settings/UI/Transp_Mod/M_Transparent_OSI,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,19528,None
-0,/OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,18149,None
-0,/OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI1,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,18152,None
-0,/OSI_Test/Settings/UI/Transp_Mod/S_OSI_Transparent,/Script/CoreUObject.UserDefinedStruct,Soft: Unknown reference chain. Soft From Unassigned Package?,1085,None
-307,/OSI_Test/Settings/Vehicle/CAF/BP_TAPV,/Script/Engine.Blueprint,Hard,35108,None
-307,/OSI_Test/Settings/Vehicle/CAF/BP_TAPV,/Script/Engine.BlueprintGeneratedClass,Hard,35108,None
-307,/OSI_Test/Settings/Vehicle/CAF/RIVALS_CAF,/Script/Engine.DataTable,Hard,1060,None
-307,/OSI_Test/Settings/Vehicle/CAF/Rivals_CAF_TAPV_M2,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1180,None
-315,/OSI_Test/Settings/Vehicle/CRF/CRF_Light_Transport,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1190,None
-315,/OSI_Test/Settings/Vehicle/CRF/M939_Tran/BP_US_Util_USMC_Woodland,/Script/Engine.Blueprint,Hard,49387,None
-315,/OSI_Test/Settings/Vehicle/CRF/M939_Tran/BP_US_Util_USMC_Woodland,/Script/Engine.BlueprintGeneratedClass,Hard,49387,None
-315,/OSI_Test/Settings/Vehicle/CRF/OSI_CRF_Light_FSV,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1143,None
-315,/OSI_Test/Settings/Vehicle/CRF/OSI_CRF_Vic,/Script/Engine.DataTable,Hard,1767,None
-315,/OSI_Test/Settings/Vehicle/CRF/Rivals_M939_TRAN_CRF,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1191,None
-315,/OSI_Test/Settings/Vehicle/CRF/Rivals_Technical-Mortar_CRF,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1230,None
-315,/OSI_Test/Settings/Vehicle/CRF/TechMortar/BP_Technical2Seater_White_Mortar,/Script/Engine.Blueprint,Hard,21526,None
-315,/OSI_Test/Settings/Vehicle/CRF/TechMortar/BP_Technical2Seater_White_Mortar,/Script/Engine.BlueprintGeneratedClass,Hard,21526,None
-312,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_LTV_Light6,/Script/Squad.SQRestriction_Delay,Hard,969,None
-350,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_MBT_10,/Script/Squad.SQRestriction_Delay,Hard,961,None
-350,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_Transport_5,/Script/Squad.SQRestriction_Delay,Hard,968,None
-350,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_UH_Initial05,/Script/Squad.SQRestriction_Delay,Hard,985,None
-350,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_UH_Initial10,/Script/Squad.SQRestriction_Delay,Hard,985,None
-350,/OSI_Test/Settings/Vehicle/Delays/OSI_QuadBikeDelay_3,/Script/Squad.SQRestriction_Delay,Hard,962,None
-304,/OSI_Test/Settings/Vehicle/IMF/IMF_Ural375D-TRAN,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1196,None
-304,/OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Technical-HMG,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1211,None
-304,/OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Technical-Modern-TRAN,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1258,None
-304,/OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Ural375D-LOG,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1192,None
-304,/OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Vic,/Script/Engine.DataTable,Hard,2049,None
-304,/OSI_Test/Settings/Vehicle/IMF/TechMortar/BP_Technical2Seater_Mortar_IMF,/Script/Engine.Blueprint,Hard,24120,None
-304,/OSI_Test/Settings/Vehicle/IMF/TechMortar/BP_Technical2Seater_Mortar_IMF,/Script/Engine.BlueprintGeneratedClass,Hard,24120,None
-304,/OSI_Test/Settings/Vehicle/IMF/TechMortar/MI_Technical4Seater_MIL,/Script/Engine.MaterialInstanceConstant,Hard,1881,None
-304,/OSI_Test/Settings/Vehicle/IMF/TechMortar/Rivals_TechMortar_IMF,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1702,None
-309,/OSI_Test/Settings/Vehicle/USMC/OSI_USMC_M1151_M2,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,Hard,1157,None
-309,/OSI_Test/Settings/Vehicle/USMC/OSI_USMC_Vehicle,/Script/Engine.DataTable,Hard,1067,None
+0,/OSI_Test/Maps/OSI/EasterEggs/image,/Script/Engine.Texture2D,,202457,None
+0,/OSI_Test/Maps/OSI/EasterEggs/image_Mat,/Script/Engine.Material,,13136,None
+0,/OSI_Test/Maps/OSI/EasterEggs/MI_PaintedDecal_RVNPROG,/Script/Engine.MaterialInstanceConstant,,1255,None
+0,/OSI_Test/Maps/OSI/EasterEggs/MI_PaintedDecal_RVNPROG1,/Script/Engine.MaterialInstanceConstant,,1214,None
+0,/OSI_Test/Maps/OSI/EasterEggs/MI_PaintedDecal_RVNPROG2,/Script/Engine.MaterialInstanceConstant,,1210,None
+0,/OSI_Test/Maps/OSI/EasterEggs/OSI_Logo,/Script/Engine.Material,,13208,None
+0,/OSI_Test/Maps/OSI/EasterEggs/Squad_Invitational_Logo_Alpha,/Script/Engine.Texture2D,,1000942,None
+0,/OSI_Test/Maps/OSI/EasterEggs/Unicorn,/Script/Engine.Texture2D,,900887,None
+0,/OSI_Test/Maps/OSI/EasterEggs/Unicorn_Mat,/Script/Engine.Material,,13146,None
+0,/OSI_Test/Maps/OSI/W1_Chora/Gameplay_Layer/OSI_Chora,/Script/Engine.World,,59982,None
+0,/OSI_Test/Maps/OSI/W1_Chora/Gameplay_Layer/OSI_Chora,/Script/Engine.BlueprintGeneratedClass,,59982,None
+0,/OSI_Test/Maps/OSI/W1_Chora/Gameplay_Layer_Data/OSI_Chora_layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,3443,None
+0,/OSI_Test/Maps/OSI/W1_Chora/OSI_Chora_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1033,None
+0,/OSI_Test/Maps/OSI/W2_Mutaha/Gameplay_Layer/OSI_Mutaha_s1,/Script/Engine.World,,4265963,None
+0,/OSI_Test/Maps/OSI/W2_Mutaha/Gameplay_Layer/OSI_Mutaha_s1,/Script/Engine.BlueprintGeneratedClass,,4265963,None
+0,/OSI_Test/Maps/OSI/W2_Mutaha/Gameplay_Layer_Data/OSI_Mutaha_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,1974,None
+0,/OSI_Test/Maps/OSI/W2_Mutaha/OSI_Mutaha_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1048,None
+0,/OSI_Test/Maps/OSI/W3_Harju/Gameplay_Layer/OSI_Harju_s1,/Script/Engine.World,,4261258,None
+0,/OSI_Test/Maps/OSI/W3_Harju/Gameplay_Layer/OSI_Harju_s1,/Script/Engine.BlueprintGeneratedClass,,4261258,None
+0,/OSI_Test/Maps/OSI/W3_Harju/Gameplay_LayerData/OSI_Harju_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,3073,None
+0,/OSI_Test/Maps/OSI/W3_Harju/OS_Harju_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1038,None
+0,/OSI_Test/Maps/OSI/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1,/Script/Engine.World,,4270129,None
+0,/OSI_Test/Maps/OSI/W4_Yeho/Gameplay_layer/OSI_Yehorivka_s1,/Script/Engine.BlueprintGeneratedClass,,4270129,None
+0,/OSI_Test/Maps/OSI/W4_Yeho/GameplayLayer_Data/OSI_Yehoriva_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,1984,None
+0,/OSI_Test/Maps/OSI/W4_Yeho/OSI_Yehorivka_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1062,None
+0,/OSI_Test/Maps/OSI/W5_BlackCoast/Gameplay_layer/OSI_BlackCoast,/Script/Engine.World,,4276831,None
+0,/OSI_Test/Maps/OSI/W5_BlackCoast/Gameplay_layer/OSI_BlackCoast,/Script/Engine.BlueprintGeneratedClass,,4276831,None
+0,/OSI_Test/Maps/OSI/W5_BlackCoast/GameplayLayer_Data/OSI_BlackCoast_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,2018,None
+0,/OSI_Test/Maps/OSI/W5_BlackCoast/OSI_BlackCoast,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1045,None
+0,/OSI_Test/Maps/OSI/W6_Al_Basrah/Gameplay_Layer/OSI_AL_Basrah,/Script/Engine.World,,4296689,None
+0,/OSI_Test/Maps/OSI/W6_Al_Basrah/Gameplay_Layer/OSI_AL_Basrah,/Script/Engine.BlueprintGeneratedClass,,4296689,None
+0,/OSI_Test/Maps/OSI/W6_Al_Basrah/Gameplay_Layer_Data/OSI_AlBasrah_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,2013,None
+0,/OSI_Test/Maps/OSI/W6_Al_Basrah/OSI_AlBasrah_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1065,None
+0,/OSI_Test/Maps/OSI/Weather_Layer/OSI_WL_ClearDay,/Script/Engine.World,,25911,None
+0,/OSI_Test/Maps/OSI/Weather_Layer/OSI_WL_ClearDay_Desert,/Script/Engine.World,,26033,None
+0,/OSI_Test/Maps/OSI/Weather_Layer/OSI_WL_ClearDay_Desert1,/Script/Engine.World,,26562,None
+0,/OSI_Test/Maps/OSI/Weather_Layer/OSI_WL_ClearDay_Main,/Script/Engine.World,,26765,None
+0,/OSI_Test/Maps/Rivals/W1_FoolsRoad/GamePlay_Layer/W1_FoolsRoad_s4,/Script/Engine.World,,63055,None
+0,/OSI_Test/Maps/Rivals/W1_FoolsRoad/GamePlay_Layer/W1_FoolsRoad_s4,/Script/Engine.BlueprintGeneratedClass,,63055,None
+0,/OSI_Test/Maps/Rivals/W1_FoolsRoad/Gameplay_Lyaer_Data/W1_Fools_s4_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,2023,None
+0,/OSI_Test/Maps/Rivals/W1_FoolsRoad/W1_Fools_s4_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1081,None
+0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer/Rivals_BlackCoast_Minimap,/Script/Engine.Texture2D,,8389577,None
+0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer/W2_BlackCoast_s4,/Script/Engine.World,,4280839,None
+0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer/W2_BlackCoast_s4,/Script/Engine.BlueprintGeneratedClass,,4280839,None
+0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Gameplay_Layer_Data/Rivals_BlackCoast_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,2048,None
+0,/OSI_Test/Maps/Rivals/W2_BlackCoast/Rivals_BlackCoast_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1105,None
+0,/OSI_Test/Maps/Rivals/W3_Kokan/Gameplay_Layer/RIVALS_Kokan_w3,/Script/Engine.World,,59049,None
+0,/OSI_Test/Maps/Rivals/W3_Kokan/Gameplay_Layer/RIVALS_Kokan_w3,/Script/Engine.BlueprintGeneratedClass,,59049,None
+0,/OSI_Test/Maps/Rivals/W3_Kokan/Gameplay_Layer_Data/W3_Kokan_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,1994,None
+0,/OSI_Test/Maps/Rivals/W3_Kokan/W3_Kokan_lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1054,None
+0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer/Narva_Minimap_rdy,/Script/Engine.Texture2D,,8389543,None
+0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer/W4_Narva_s4,/Script/Engine.World,,4277071,None
+0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer/W4_Narva_s4,/Script/Engine.BlueprintGeneratedClass,,4277071,None
+0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer/W4_Narva_s4SQMapBoundary_1Mask,/Script/Engine.Texture2D,,4195264,None
+0,/OSI_Test/Maps/Rivals/W4_Narva/Gameplay_Layer_Data/Rivals_Narva_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,1998,None
+0,/OSI_Test/Maps/Rivals/W4_Narva/Rivals_Narva_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1060,None
+0,/OSI_Test/Maps/Rivals/W5_AlBasrah/Gameplay_Layer/W5_AlBasrah_s4,/Script/Engine.World,,4297535,None
+0,/OSI_Test/Maps/Rivals/W5_AlBasrah/Gameplay_Layer/W5_AlBasrah_s4,/Script/Engine.BlueprintGeneratedClass,,4297535,None
+0,/OSI_Test/Maps/Rivals/W5_AlBasrah/Gameplay_Layer_Data/Rivals_AlBasrah_Layer,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,2046,None
+0,/OSI_Test/Maps/Rivals/W5_AlBasrah/Rivals_AlBasrah_Lvl,/Game/Settings/Maps/BP_SQLevel.BP_SQLevel_C,,1085,None
+0,/OSI_Test/Settings/Core/OSI_BP_Cam,/Script/Engine.Blueprint,,114659,None
+0,/OSI_Test/Settings/Core/OSI_BP_Cam,/Script/Engine.BlueprintGeneratedClass,,114659,None
+0,/OSI_Test/Settings/Core/OSI_BP_HUD,/Script/Engine.Blueprint,,4352,None
+0,/OSI_Test/Settings/Core/OSI_BP_HUD,/Script/Engine.BlueprintGeneratedClass,,4352,None
+0,/OSI_Test/Settings/Core/OSI_BP_KillDeathRuleset,/Script/Engine.Blueprint,,38301,None
+0,/OSI_Test/Settings/Core/OSI_BP_KillDeathRuleset,/Script/Engine.BlueprintGeneratedClass,,38301,None
+0,/OSI_Test/Settings/Core/OSI_GameStateSquad_Child,/Script/Engine.Blueprint,,7476,None
+0,/OSI_Test/Settings/Core/OSI_GameStateSquad_Child,/Script/Engine.BlueprintGeneratedClass,,7476,None
+0,/OSI_Test/Settings/Core/OSI_PlayerController_Child,/Script/Engine.Blueprint,,40925,None
+0,/OSI_Test/Settings/Core/OSI_PlayerController_Child,/Script/Engine.BlueprintGeneratedClass,,40925,None
+0,/OSI_Test/Settings/FactionSetup/AFU/OSI_AFU_FactionSetup,/Script/Engine.DataTable,,1202,None
+0,/OSI_Test/Settings/FactionSetup/AFU/Rivals_AFU,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,30016,None
+0,/OSI_Test/Settings/FactionSetup/BAF/OSI_BAF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,25537,None
+0,/OSI_Test/Settings/FactionSetup/BAF/OSI_BAF_Table,/Script/Engine.DataTable,,1168,None
+0,/OSI_Test/Settings/FactionSetup/CAF/Rivals_CAF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,26281,None
+0,/OSI_Test/Settings/FactionSetup/CAF/Rivals_CAF_FatctionTable,/Script/Engine.DataTable,,1217,None
+0,/OSI_Test/Settings/FactionSetup/CRF/OSI_CRF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,28416,None
+0,/OSI_Test/Settings/FactionSetup/CRF/OSI_CRF_Table,/Script/Engine.DataTable,,1346,None
+0,/OSI_Test/Settings/FactionSetup/CRF/Rivals_CRF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,30018,None
+0,/OSI_Test/Settings/FactionSetup/GFI/OSI_GFI,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,26332,None
+0,/OSI_Test/Settings/FactionSetup/GFI/OSI_GFI_FactionSetup,/Script/Engine.DataTable,,1400,None
+0,/OSI_Test/Settings/FactionSetup/GFI/RIVALS_GFI,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,26067,None
+0,/OSI_Test/Settings/FactionSetup/GFI/Rivals_GFI_Medic_02,/Game/Settings/Roles/BP_SQRoleSettings.BP_SQRoleSettings_C,,2897,None
+0,/OSI_Test/Settings/FactionSetup/GFI/RIvals_GFI_RoleTable,/Script/Engine.DataTable,,1481,None
+0,/OSI_Test/Settings/FactionSetup/IMF/OSI_IMF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,32239,None
+0,/OSI_Test/Settings/FactionSetup/IMF/OSI_IMF_FactionsetupTable,/Script/Engine.DataTable,,1389,None
+0,/OSI_Test/Settings/FactionSetup/IMF/Rivals_IMF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,31633,None
+0,/OSI_Test/Settings/FactionSetup/PLA/OSI_PLA,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,23518,None
+0,/OSI_Test/Settings/FactionSetup/PLA/OSI_PLA_Faction_Table,/Script/Engine.DataTable,,1433,None
+0,/OSI_Test/Settings/FactionSetup/PLA/Rivals_PLA,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,23401,None
+0,/OSI_Test/Settings/FactionSetup/PLAAGF/OSI_PLAAGF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,22963,None
+0,/OSI_Test/Settings/FactionSetup/PLAAGF/OSI_PLAAGF_Table,/Script/Engine.DataTable,,1251,None
+0,/OSI_Test/Settings/FactionSetup/RGF/FactionSetupTable_RGF_T,/Script/Engine.DataTable,,2061,None
+0,/OSI_Test/Settings/FactionSetup/RGF/RGF_Chora_OSI_T,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,26379,None
+0,/OSI_Test/Settings/FactionSetup/RGF/RGF_OSI_T2_Basrah,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,27392,None
+0,/OSI_Test/Settings/FactionSetup/RGF/Rivals_RGF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,27180,None
+0,/OSI_Test/Settings/FactionSetup/RGF/Rivals_RGF_AlBasrah,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,27241,None
+0,/OSI_Test/Settings/FactionSetup/TLF/GL/OSI_Role_GND,/Game/Settings/Roles/Conditions/BP_SQRestriction_RoleCount.BP_SQRestriction_RoleCount_C,,2250,None
+0,/OSI_Test/Settings/FactionSetup/TLF/GL/OSI_TLF_Grenadier_03,/Game/Settings/Roles/BP_SQRoleSettings.BP_SQRoleSettings_C,,2550,None
+0,/OSI_Test/Settings/FactionSetup/TLF/GL/TLF_OSI_Role,/Script/Engine.DataTable,,1418,None
+0,/OSI_Test/Settings/FactionSetup/TLF/OSI_TLF,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,24584,None
+0,/OSI_Test/Settings/FactionSetup/TLF/OSI_TLF_Table,/Script/Engine.DataTable,,1218,None
+0,/OSI_Test/Settings/FactionSetup/USA/FactionSetupTable_USA_T,/Script/Engine.DataTable,,1681,None
+0,/OSI_Test/Settings/FactionSetup/USA/Rivals_USA,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,24738,None
+0,/OSI_Test/Settings/FactionSetup/USA/Rivals_USA_Narva,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,24756,None
+0,/OSI_Test/Settings/FactionSetup/USA/USA_Chora_OSI_T,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,24335,None
+0,/OSI_Test/Settings/FactionSetup/USMC/OSI_USMC,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,24577,None
+0,/OSI_Test/Settings/FactionSetup/USMC/OSI_USMC_Table,/Script/Engine.DataTable,,1207,None
+0,/OSI_Test/Settings/FactionSetup/VDV/OSI_VDV,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,27231,None
+0,/OSI_Test/Settings/FactionSetup/VDV/OSI_VDV_Table,/Script/Engine.DataTable,,1429,None
+0,/OSI_Test/Settings/FactionSetup/VDV/RIVALS_VDV,/Game/Settings/FactionSetups/BP_SQFactionSetup.BP_SQFactionSetup_C,,27288,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Materials/M_Rally_Radius_OSI,/Script/Engine.Material,,9080,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Materials/OSI_M_CircleSiege,/Script/Engine.Material,,11429,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Materials/OSI_Press,/Script/Engine.MaterialParameterCollection,,1020,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_BP_Hab_Circle,/Script/Engine.Blueprint,,7933,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_BP_Hab_Circle,/Script/Engine.BlueprintGeneratedClass,,7933,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_M_Rally_Radius_Inst,/Script/Engine.MaterialInstanceConstant,,1116,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_MI_CircleSiege_Inst,/Script/Engine.MaterialInstanceConstant,,1114,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_Rally_Circle,/Script/Engine.Blueprint,,8575,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/OSI_Rally_Circle,/Script/Engine.BlueprintGeneratedClass,,8575,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Textures/OSI_T_siege,/Script/Engine.Texture2D,,16778153,None
+0,/OSI_Test/Settings/GamePlay/POI_Events/Circles/Textures/T_Rally_radius,/Script/Engine.Texture2D,,490957,None
+0,/OSI_Test/Settings/GamePlay/SpectateCam/Materials/M_SpectateCamScene_Caster,/Script/Engine.Material,,1040,None
+0,/OSI_Test/Settings/GamePlay/SpectateCam/Materials/T_OSI_RenderTarget,/Script/Engine.TextureRenderTarget2D,,791,None
+0,/OSI_Test/Settings/GamePlay/SpectateCam/OSI_BP_SpectateCam_M,/Script/Engine.Blueprint,,4998,None
+0,/OSI_Test/Settings/GamePlay/SpectateCam/OSI_BP_SpectateCam_M,/Script/Engine.BlueprintGeneratedClass,,4998,None
+0,/OSI_Test/Settings/GamePlay/SpectateCam/OSI_BP_SpectateCamInsert_caster,/Script/Engine.Blueprint,,3270,None
+0,/OSI_Test/Settings/GamePlay/SpectateCam/OSI_BP_SpectateCamInsert_caster,/Script/Engine.BlueprintGeneratedClass,,3270,None
+0,/OSI_Test/Settings/GM/OSI_GameMode,/Script/Engine.Blueprint,,6424,None
+0,/OSI_Test/Settings/GM/OSI_GameMode,/Script/Engine.BlueprintGeneratedClass,,6424,None
+0,/OSI_Test/Settings/GM/OSI_GameMode_Table,/Script/Engine.DataTable,,1476,None
+0,/OSI_Test/Settings/OSI_Layer_Table,/Script/Engine.DataTable,,1918,None
+0,/OSI_Test/Settings/OSI_Level_Table,/Script/Engine.DataTable,,4479,None
+0,/OSI_Test/Settings/UI/CasterOverlay/CaptureZones/W_OSI_CaptureZone,/Script/UMGEditor.WidgetBlueprint,,29512,None
+0,/OSI_Test/Settings/UI/CasterOverlay/CaptureZones/W_OSI_CaptureZone,/Script/UMG.WidgetBlueprintGeneratedClass,,29512,None
+0,/OSI_Test/Settings/UI/CasterOverlay/CaptureZones/W_OSI_CaptureZone_Item,/Script/UMGEditor.WidgetBlueprint,,8528,None
+0,/OSI_Test/Settings/UI/CasterOverlay/CaptureZones/W_OSI_CaptureZone_Item,/Script/UMG.WidgetBlueprintGeneratedClass,,8528,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Infantry_Status/W_InfantryStatus_OSI,/Script/UMGEditor.WidgetBlueprint,,69665,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Infantry_Status/W_InfantryStatus_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,69665,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Infantry_Status/W_Mag_OSI,/Script/UMGEditor.WidgetBlueprint,,2650,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Infantry_Status/W_Mag_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,2650,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/UMG_GenericState_OSI,/Script/UMGEditor.WidgetBlueprint,,11743,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/UMG_GenericState_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,11743,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/W_HeliStatusOSI,/Script/UMGEditor.WidgetBlueprint,,52688,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/W_HeliStatusOSI,/Script/UMG.WidgetBlueprintGeneratedClass,,52688,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/W_VehicleStatusOSI,/Script/UMGEditor.WidgetBlueprint,,87725,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/Vehicle_Status/W_VehicleStatusOSI,/Script/UMG.WidgetBlueprintGeneratedClass,,87725,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/W_FollowName_OSI,/Script/UMGEditor.WidgetBlueprint,,8978,None
+0,/OSI_Test/Settings/UI/CasterOverlay/Indicators/W_FollowName_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,8978,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_Inst2_OSI,/Script/Engine.MaterialInstanceConstant,,1312,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_Inst_OSI,/Script/Engine.MaterialInstanceConstant,,1260,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_OSI,/Script/Engine.Material,,11855,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_DeploymentFlag_OSI_Inst,/Script/Engine.MaterialInstanceConstant,,996,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/M_TournamentFlag_OSI,/Script/Engine.MaterialInstanceConstant,,1033,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_MatchPanel_Minimalistic_OSI,/Script/UMGEditor.WidgetBlueprint,,44522,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_MatchPanel_Minimalistic_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,44522,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_MatchPanel_OSI,/Script/UMGEditor.WidgetBlueprint,,46575,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_MatchPanel_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,46575,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_StatPopUP_Minimalistic_OSI,/Script/UMGEditor.WidgetBlueprint,,34881,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_StatPopUP_Minimalistic_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,34881,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_StatPopUP_OSI,/Script/UMGEditor.WidgetBlueprint,,61181,None
+0,/OSI_Test/Settings/UI/CasterOverlay/MatchPanel/W_StatPopUP_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,61181,None
+0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_AdminCrosshair_OSI,/Script/UMGEditor.WidgetBlueprint,,2041,None
+0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_AdminCrosshair_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,2041,None
+0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_KeyGuide_OSI,/Script/UMGEditor.WidgetBlueprint,,2019,None
+0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_KeyGuide_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,2019,None
+0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_MatchName_OSI,/Script/UMGEditor.WidgetBlueprint,,6763,None
+0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_MatchName_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,6763,None
+0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_OSI_Settings,/Script/UMGEditor.WidgetBlueprint,,63217,None
+0,/OSI_Test/Settings/UI/CasterOverlay/OverlaySettings/W_OSI_Settings,/Script/UMG.WidgetBlueprintGeneratedClass,,63217,None
+0,/OSI_Test/Settings/UI/CasterOverlay/W_OSI_HUD,/Script/UMGEditor.WidgetBlueprint,,54365,None
+0,/OSI_Test/Settings/UI/CasterOverlay/W_OSI_HUD,/Script/UMG.WidgetBlueprintGeneratedClass,,54365,None
+0,/OSI_Test/Settings/UI/Fonts/Bahnschrift/Bahnschrift,/Script/Engine.FontFace,,323745,None
+0,/OSI_Test/Settings/UI/Fonts/Bahnschrift/Bahnschrift_Font,/Script/Engine.Font,,915,None
+0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeed,/Script/UMGEditor.WidgetBlueprint,,15895,None
+0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeed,/Script/UMG.WidgetBlueprintGeneratedClass,,15895,None
+0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeed_Item,/Script/UMGEditor.WidgetBlueprint,,18883,None
+0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeed_Item,/Script/UMG.WidgetBlueprintGeneratedClass,,18883,None
+0,/OSI_Test/Settings/UI/KillFeed/OSI_KillFeedEnum,/Script/Engine.UserDefinedEnum,,1199,None
+0,/OSI_Test/Settings/UI/SaveScoreboard/BFL_SaveScoreboard_OSI,/Script/Engine.Blueprint,,25376,None
+0,/OSI_Test/Settings/UI/SaveScoreboard/BFL_SaveScoreboard_OSI,/Script/Engine.BlueprintGeneratedClass,,25376,None
+0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec,/Script/UMGEditor.WidgetBlueprint,,9598,None
+0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec,/Script/UMG.WidgetBlueprintGeneratedClass,,9598,None
+0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec_Item,/Script/UMGEditor.WidgetBlueprint,,7495,None
+0,/OSI_Test/Settings/UI/SpecCam/OSI_W_CameraManSpec_Item,/Script/UMG.WidgetBlueprintGeneratedClass,,7495,None
+0,/OSI_Test/Settings/UI/SpecCam/W_SpecCam_OSI,/Script/UMGEditor.WidgetBlueprint,,3125,None
+0,/OSI_Test/Settings/UI/SpecCam/W_SpecCam_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,3125,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/20_RNL,/Script/Engine.Texture2D,,410501,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/20_Royal,/Script/Engine.Texture2D,,410507,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/4_5_0_RATS,/Script/Engine.Texture2D,,700586,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/4k,/Script/Engine.Texture2D,,4304796,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/4L1ZKmT,/Script/Engine.Texture2D,,1400557,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/4L1ZKmT,/Script/Engine.Texture2D,,1400557,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/7th_Ranger_Regiment,/Script/Engine.Texture2D,,410540,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/82team,/Script/Engine.Texture2D,,410501,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/AIX,/Script/Engine.Texture2D,,360892,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/bg-removed-owllogooofinal_png,/Script/Engine.Texture2D,,4000970,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/C4,/Script/Engine.Texture2D,,763067,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/C4,/Script/Engine.Texture2D,,763067,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/EGCF,/Script/Engine.Texture2D,,410495,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Einherjar,/Script/Engine.Texture2D,,410510,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/EMAN,/Script/Engine.Texture2D,,20860098,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/EMAN,/Script/Engine.Texture2D,,20860098,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Full_Wipe,/Script/Engine.Texture2D,,410510,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Giant_Panda_Team,/Script/Engine.Texture2D,,410531,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/image,/Script/Engine.Texture2D,,1827290,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Man_On_Fire,/Script/Engine.Texture2D,,1960662,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Man_On_Fire,/Script/Engine.Texture2D,,1960662,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Monkeys_Want_Bananas,/Script/Engine.Texture2D,,125943,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/N_1,/Script/Engine.Texture2D,,9000888,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/O_W_L_S,/Script/Engine.Texture2D,,410504,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Old_Continentals,/Script/Engine.Texture2D,,410531,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/POST,/Script/Engine.Texture2D,,820403,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/POST,/Script/Engine.Texture2D,,820403,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Rat,/Script/Engine.Texture2D,,410492,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Red_Foxes,/Script/Engine.Texture2D,,400912,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/RNS,/Script/Engine.Texture2D,,410492,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Task_Force_Baguette,/Script/Engine.Texture2D,,2001263,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Task_Force_Baguette,/Script/Engine.Texture2D,,2001263,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/United_Lads_Division,/Script/Engine.Texture2D,,410543,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamTextures/Zero_Pulse,/Script/Engine.Texture2D,,1399647,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/DT_OSI_Teams,/Script/Engine.DataTable,,8513,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/OSI_W_TeamSelect,/Script/UMGEditor.WidgetBlueprint,,10207,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/OSI_W_TeamSelect,/Script/UMG.WidgetBlueprintGeneratedClass,,10207,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/S_OSI_Teams,/Script/CoreUObject.UserDefinedStruct,,1212,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/W_Select_Teams_OSI,/Script/UMGEditor.WidgetBlueprint,,14896,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/W_Select_Teams_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,14896,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/W_Team_Item_OSI,/Script/UMGEditor.WidgetBlueprint,,12048,None
+0,/OSI_Test/Settings/UI/TeamsLog/TeamWidget/W_Team_Item_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,12048,None
+0,/OSI_Test/Settings/UI/TeamsLog/Tournament_Logo/preview,/Script/Engine.Texture2D,,125907,None
+0,/OSI_Test/Settings/UI/TeamsLog/Tournament_Logo/Rivals,/Script/Engine.Texture2D,,552126,None
+0,/OSI_Test/Settings/UI/TeamsLog/Tournament_Logo/Squad_Invitational_Logo_Alpha,/Script/Engine.Texture2D,,1000976,None
+0,/OSI_Test/Settings/UI/TeamsLog/Tournament_Logo/T_FriendlyMatch,/Script/Engine.Texture2D,,490942,None
+0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/DT_OSI_Tourn,/Script/Engine.DataTable,,1820,None
+0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/S_OSI_TournSettings,/Script/CoreUObject.UserDefinedStruct,,1267,None
+0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/W_Tournament_Item_OSI,/Script/UMGEditor.WidgetBlueprint,,10062,None
+0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/W_Tournament_Item_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,10062,None
+0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/W_TournamentSelect_OSI,/Script/UMGEditor.WidgetBlueprint,,9863,None
+0,/OSI_Test/Settings/UI/TeamsLog/TournamentWidget/W_TournamentSelect_OSI,/Script/UMG.WidgetBlueprintGeneratedClass,,9863,None
+0,/OSI_Test/Settings/UI/Textures/Loading_Screens/OSI_LoadingScreen,/Script/Engine.Texture2D,,4148140,None
+0,/OSI_Test/Settings/UI/Textures/Loading_Screens/OSI_LoadingScreenFHD,/Script/Engine.Texture2D,,1037749,None
+0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_AlBasrah,/Script/Engine.Texture2D,,700614,None
+0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Black_Coast,/Script/Engine.Texture2D,,1399687,None
+0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Chora,/Script/Engine.Texture2D,,1399669,None
+0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Harju,/Script/Engine.Texture2D,,1399669,None
+0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Mutaha,/Script/Engine.Texture2D,,1399672,None
+0,/OSI_Test/Settings/UI/Textures/Loading_Screens/Thumbnail_Yehorivka,/Script/Engine.Texture2D,,1399681,None
+0,/OSI_Test/Settings/UI/Textures/T_Daco_OSI,/Script/Engine.Texture2D,,903392,None
+0,/OSI_Test/Settings/UI/Textures/T_DotCrosshair_OSI,/Script/Engine.Texture2D,,1069,None
+0,/OSI_Test/Settings/UI/Textures/T_Keyboardguide_OSI,/Script/Engine.Texture2D,,2631802,None
+0,/OSI_Test/Settings/UI/Textures/T_MatchNameBar_OSI,/Script/Engine.Texture2D,,480916,None
+0,/OSI_Test/Settings/UI/Textures/T_MatchPanelBorder_OSI,/Script/Engine.Texture2D,,320920,None
+0,/OSI_Test/Settings/UI/Textures/T_MidStat_OSI,/Script/Engine.Texture2D,,400896,None
+0,/OSI_Test/Settings/UI/Transp_Mod/DT_OSI_Transparent,/Script/Engine.DataTable,,289820,None
+0,/OSI_Test/Settings/UI/Transp_Mod/M_Transparent_OSI,/Script/Engine.Material,,19528,None
+0,/OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI,/Script/Engine.MaterialInstanceConstant,,18149,None
+0,/OSI_Test/Settings/UI/Transp_Mod/MI_Transparent_OSI1,/Script/Engine.MaterialInstanceConstant,,18152,None
+0,/OSI_Test/Settings/UI/Transp_Mod/S_OSI_Transparent,/Script/CoreUObject.UserDefinedStruct,,1085,None
+0,/OSI_Test/Settings/Vehicle/CAF/BP_TAPV,/Script/Engine.Blueprint,,36679,None
+0,/OSI_Test/Settings/Vehicle/CAF/BP_TAPV,/Script/Engine.BlueprintGeneratedClass,,36679,None
+0,/OSI_Test/Settings/Vehicle/CAF/RIVALS_CAF,/Script/Engine.DataTable,,1060,None
+0,/OSI_Test/Settings/Vehicle/CAF/Rivals_CAF_TAPV_M2,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1180,None
+0,/OSI_Test/Settings/Vehicle/CRF/CRF_Light_Transport,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1194,None
+0,/OSI_Test/Settings/Vehicle/CRF/M939_Tran/BP_US_Util_USMC_Woodland,/Script/Engine.Blueprint,,50824,None
+0,/OSI_Test/Settings/Vehicle/CRF/M939_Tran/BP_US_Util_USMC_Woodland,/Script/Engine.BlueprintGeneratedClass,,50824,None
+0,/OSI_Test/Settings/Vehicle/CRF/OSI_CRF_Light_FSV,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1147,None
+0,/OSI_Test/Settings/Vehicle/CRF/OSI_CRF_Vic,/Script/Engine.DataTable,,2007,None
+0,/OSI_Test/Settings/Vehicle/CRF/RIVALS_CRF_Technical-LOGI,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1212,None
+0,/OSI_Test/Settings/Vehicle/CRF/Rivals_M939_TRAN_CRF,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1191,None
+0,/OSI_Test/Settings/Vehicle/CRF/Rivals_Technical-Mortar_CRF,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1230,None
+0,/OSI_Test/Settings/Vehicle/CRF/TechMortar/BP_Technical2Seater_White_Mortar,/Script/Engine.Blueprint,,22789,None
+0,/OSI_Test/Settings/Vehicle/CRF/TechMortar/BP_Technical2Seater_White_Mortar,/Script/Engine.BlueprintGeneratedClass,,22789,None
+0,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_LTV_Light6,/Script/Squad.SQRestriction_Delay,,969,None
+0,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_MBT_10,/Script/Squad.SQRestriction_Delay,,961,None
+0,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_Transport_5,/Script/Squad.SQRestriction_Delay,,968,None
+0,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_UH_Initial05,/Script/Squad.SQRestriction_Delay,,985,None
+0,/OSI_Test/Settings/Vehicle/Delays/OSI_Delay_UH_Initial10,/Script/Squad.SQRestriction_Delay,,985,None
+0,/OSI_Test/Settings/Vehicle/Delays/OSI_QuadBikeDelay_3,/Script/Squad.SQRestriction_Delay,,962,None
+0,/OSI_Test/Settings/Vehicle/GFI/RIVALS_BRDM-2,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1194,None
+0,/OSI_Test/Settings/Vehicle/GFI/RIVALS_BRDM_2GFI,/Script/Engine.Blueprint,,20440,None
+0,/OSI_Test/Settings/Vehicle/GFI/RIVALS_BRDM_2GFI,/Script/Engine.BlueprintGeneratedClass,,20440,None
+0,/OSI_Test/Settings/Vehicle/GFI/Rivals_BRDM_Turret,/Script/Engine.Blueprint,,7117,None
+0,/OSI_Test/Settings/Vehicle/GFI/Rivals_BRDM_Turret,/Script/Engine.BlueprintGeneratedClass,,7117,None
+0,/OSI_Test/Settings/Vehicle/GFI/RIVALS_VehicleTable,/Script/Engine.DataTable,,1078,None
+0,/OSI_Test/Settings/Vehicle/IMF/IMF_Ural375D-TRAN,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1196,None
+0,/OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Technical-HMG,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1211,None
+0,/OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Technical-Modern-TRAN,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1241,None
+0,/OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Ural375D-LOG,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1192,None
+0,/OSI_Test/Settings/Vehicle/IMF/OSI_IMF_Vic,/Script/Engine.DataTable,,2049,None
+0,/OSI_Test/Settings/Vehicle/IMF/TechMortar/BP_Technical2Seater_Mortar_IMF,/Script/Engine.Blueprint,,25512,None
+0,/OSI_Test/Settings/Vehicle/IMF/TechMortar/BP_Technical2Seater_Mortar_IMF,/Script/Engine.BlueprintGeneratedClass,,25512,None
+0,/OSI_Test/Settings/Vehicle/IMF/TechMortar/MI_Technical4Seater_MIL,/Script/Engine.MaterialInstanceConstant,,1881,None
+0,/OSI_Test/Settings/Vehicle/IMF/TechMortar/Rivals_TechMortar_IMF,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1702,None
+0,/OSI_Test/Settings/Vehicle/USMC/OSI_USMC_M1151_M2,/Game/Settings/Vehicle/BP_SQVehicleSettings.BP_SQVehicleSettings_C,,1157,None
+0,/OSI_Test/Settings/Vehicle/USMC/OSI_USMC_Vehicle,/Script/Engine.DataTable,,1067,None

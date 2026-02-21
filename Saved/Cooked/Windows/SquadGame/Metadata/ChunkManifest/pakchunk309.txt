@@ -1,4 +1,0 @@
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\USMC\OSI_USMC
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\USMC\OSI_USMC_Table
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\USMC\OSI_USMC_M1151_M2
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\Vehicle\USMC\OSI_USMC_Vehicle

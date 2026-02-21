@@ -1,5 +1,0 @@
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\TLF\GL\OSI_Role_GND
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\TLF\GL\OSI_TLF_Grenadier_03
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\TLF\GL\TLF_OSI_Role
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\TLF\OSI_TLF
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\TLF\OSI_TLF_Table

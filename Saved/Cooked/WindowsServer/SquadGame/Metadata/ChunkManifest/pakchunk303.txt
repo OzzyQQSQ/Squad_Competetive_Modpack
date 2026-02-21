@@ -1,2 +1,0 @@
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\GFI\OSI_GFI
-..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\WindowsServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\GFI\OSI_GFI_FactionSetup
